@@ -10,7 +10,7 @@ public class ImageProcessing {
     public static void main(String[] args) {
 
         // The provided images are apple.jpg, flower.jpg, and kitten.jpg
-        int[][] imageData = imgToTwoD("./apple.jpg");
+        int[][] imageData = imgToTwoD("./input.jpg");
 
         // Or load your own image using a URL!
         // int[][] imageData = imgToTwoD("https://content.codecademy.com/projects/project_thumbnails/phaser/bug-dodger.png");
@@ -322,3 +322,4 @@ public static int[][] paintRectangle(int[][] canvas, int width, int height,
         }
     }
 }
+
