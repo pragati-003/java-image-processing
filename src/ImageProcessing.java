@@ -10,7 +10,7 @@ public class Solution {
 	public static void main(String[] args) {
 
     // The provided images are apple.jpg, flower.jpg, and kitten.jpg
-		int[][] imageData = imgToTwoD("./input.png");
+		int[][] imageData = imgToTwoD(".images/input/input.png");
 		
     // Or load your own image using a URL!
 		// int[][] imageData = imgToTwoD("https://content.codecademy.com/projects/project_thumbnails/phaser/bug-dodger.png");
