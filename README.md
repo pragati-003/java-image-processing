@@ -25,5 +25,14 @@ It manipulates images using pixel-level operations using 2D arrays.
 The image is converted into a 2D array of pixels.
 Each pixel’s RGBA values are extracted, modified, and written back to generate new images.
 
+## Input Image
+![Input](images/input/input.png)
+
+## Output Image - Negative
+![Negative](images/output/negative.jpg)
+
+## Output Image - Stretched
+![Stretched](images/output/stretched.jpg)
+
 ## 👩‍💻 Author
 Pragati Parmar
