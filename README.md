@@ -29,10 +29,10 @@ Each pixel’s RGBA values are extracted, modified, and written back to generate
 ![Input](images/input/input.png)
 
 ## Output Image - Negative
-![Negative](images/output/negative.jpg)
+![Negative](images/output/colored_apple.jpg)
 
 ## Output Image - Stretched
-![Stretched](images/output/stretched.jpg)
+![Stretched](images/output/inverted_apple.jpg)
 
 ## 👩‍💻 Author
 Pragati Parmar
